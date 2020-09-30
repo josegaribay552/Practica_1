@@ -1,0 +1,7 @@
+fsl_phy.h:131:24:PHY_Init	16	static
+fsl_phy.h:175:24:PHY_GetLinkStatus	16	static
+fsl_phy.h:189:24:PHY_GetLinkSpeedDuplex	24	static
+enet_ethernetif.c:72:6:ethernetif_phy_init	48	static
+enet_ethernetif.c:136:6:ethernetif_input	24	static
+enet_ethernetif.c:155:19:ethernetif_get_enet_base	32	static
+enet_ethernetif.c:176:7:ethernetif_init	32	static

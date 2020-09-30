@@ -1,0 +1,7 @@
+fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+fsl_enet.h:860:24:ENET_ReadSMIData	16	static
+fsl_enet.h:1201:24:ENET_GetInterruptStatus	16	static
+fsl_enet.h:1220:20:ENET_ClearInterruptStatus	16	static
+fsl_enet_mdio.c:51:13:ENET_MDIO_Init	32	static
+fsl_enet_mdio.c:64:10:ENET_MDIO_Write	40	static
+fsl_enet_mdio.c:86:10:ENET_MDIO_Read	32	static

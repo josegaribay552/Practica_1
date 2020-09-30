@@ -1,0 +1,9 @@
+fsl_mdio.h:80:20:MDIO_Init	16	static
+fsl_mdio.h:96:24:MDIO_Write	32	static
+fsl_mdio.h:112:24:MDIO_Read	32	static
+fsl_phyksz8081.c:35:10:PHY_KSZ8081_Init	40	static
+fsl_phyksz8081.c:122:10:PHY_KSZ8081_Write	24	static
+fsl_phyksz8081.c:127:10:PHY_KSZ8081_Read	24	static
+fsl_phyksz8081.c:132:10:PHY_KSZ8081_EnableLoopback	24	static
+fsl_phyksz8081.c:191:10:PHY_KSZ8081_GetLinkStatus	24	static
+fsl_phyksz8081.c:216:10:PHY_KSZ8081_GetLinkSpeedDuplex	40	static
